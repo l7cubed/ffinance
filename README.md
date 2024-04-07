@@ -1,20 +1,8 @@
-# Fusion Finance
 
-### Author: [John Nguyen](https://github.com/jooohneth)
-
-## Tokens Information
-
-### Polygon
 
 - [FUSN address](https://polygonscan.com/address/0x81a7750F1b71Da9057Dcb834F20b167DA0e0fbAd)
 - [DAI address](https://polygonscan.com/address/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063)
 - [FusionCore address](https://polygonscan.com/address/0x70D3a5811aa45Cd2dF078531c3759245682b5F04)
-
-### Goerli
-
-- [FUSN address](https://goerli.etherscan.io/address/0x1Fcf6276f6bf99052c59D2bC83B5Dcb84ebB20c0)
-- [DAI address](https://goerli.etherscan.io/address/0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844)
-- [FusionCore address](https://goerli.etherscan.io/address/0x7c0b7b6956c4171745887D4e1371CFCc0ca27c4D)
 
 ## Overview
 
